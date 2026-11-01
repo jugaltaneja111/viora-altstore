@@ -1,0 +1,41 @@
+{
+  "name": "Viora",
+  "identifier": "com.app.viora.source",
+  "subtitle": "Viora for iPhone and iPad",
+  "description": "Updates for the Viora iPhone app. The Apple TV app is not installable through AltStore-style stores.",
+  "iconURL": "https://raw.githubusercontent.com/jugaltaneja111/viora-altstore/main/icon.png",
+  "website": "https://github.com/jugaltaneja111/viora-altstore",
+  "tintColor": "#C8102E",
+  "featuredApps": [
+    "com.app.viora"
+  ],
+  "apps": [
+    {
+      "name": "Viora",
+      "bundleIdentifier": "com.app.viora",
+      "developerName": "Viora",
+      "subtitle": "Movies, series and live TV",
+      "localizedDescription": "Viora is a media center for your addons, library, Continue Watching and live TV.",
+      "iconURL": "https://raw.githubusercontent.com/jugaltaneja111/viora-altstore/main/icon.png",
+      "tintColor": "#C8102E",
+      "category": "entertainment",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "0.3.0",
+          "buildVersion": "162",
+          "date": "2026-11-01T18:14:29+00:00",
+          "localizedDescription": "Viora iOS build 162 (tvOS v516).",
+          "downloadURL": "https://github.com/jugaltaneja111/viora-altstore/releases/download/ios-162/Viora-iOS-162.ipa",
+          "size": 31631354,
+          "minOSVersion": "18.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}

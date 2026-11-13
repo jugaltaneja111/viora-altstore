@@ -27,6 +27,15 @@
       "versions": [
         {
           "version": "0.3.0",
+          "buildVersion": "170",
+          "date": "2026-11-13T12:20:07+00:00",
+          "localizedDescription": "Viora iOS build 170 (tvOS v524).",
+          "downloadURL": "https://github.com/jugaltaneja111/viora-altstore/releases/download/ios-170/Viora-iOS-170.ipa",
+          "size": 32064081,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.0",
           "buildVersion": "169",
           "date": "2026-11-10T21:23:14+00:00",
           "localizedDescription": "Viora iOS build 169 (tvOS v523).",
@@ -59,15 +68,6 @@
           "localizedDescription": "Viora iOS build 166 (tvOS v520).",
           "downloadURL": "https://github.com/jugaltaneja111/viora-altstore/releases/download/ios-166/Viora-iOS-166.ipa",
           "size": 32037125,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.0",
-          "buildVersion": "165",
-          "date": "2026-11-04T02:30:25+00:00",
-          "localizedDescription": "Viora iOS build 165 (tvOS v519).",
-          "downloadURL": "https://github.com/jugaltaneja111/viora-altstore/releases/download/ios-165/Viora-iOS-165.ipa",
-          "size": 31647990,
           "minOSVersion": "18.0"
         }
       ]
